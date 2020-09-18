@@ -1,0 +1,16 @@
+[0907/163408.966:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0907/165450.568:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0907/190009.920:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0907/195307.009:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0908/135536.069:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0908/155225.680:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0908/155708.410:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0908/155839.065:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0908/181959.665:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0908/200010.328:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0909/152003.133:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0909/162710.739:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0909/203516.106:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0910/152043.384:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0910/181305.995:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0911/180343.366:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
